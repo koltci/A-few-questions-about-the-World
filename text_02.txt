@@ -1,0 +1,75 @@
+Tak
+Nie. Zamknij.
+Tak
+Nie
+Czasem
+Tak, jest. Zakończ.
+Nie, nie jest.
+Tak, jest. Zakończ.
+Tak, wróć.
+Dalej
+Wróć
+Można
+Nie można
+Zamknij
+Wróć
+Wróć
+Dalej
+Tak
+Nie
+Tak
+Nie, zamknij.
+Tak, ma.
+Nie, nie ma.
+Wróć
+Dalej
+Koniec
+Wróć
+B
+A
+Nie
+Tak
+Zamknij
+Powrót do początku
+Nie, zakmnij.
+Tak
+Dotacje
+Kopiuj
+
+Yes
+No. Close.
+Yes
+No
+Sometimes
+Yes, it is. End this.
+No, it isn't.
+Yes, it is. End.
+Yes, come back.
+Next
+Come back
+Can
+Can't
+Close
+Come back
+Come back
+Next
+Yes
+No
+Yes
+No, close.
+Yes, it has.
+No, it hasn't.
+Come back
+Next
+End
+Come back
+B
+A
+No
+Yes
+Close
+Return to the beginning
+No, close.
+Yes
+Donations
+Copy
