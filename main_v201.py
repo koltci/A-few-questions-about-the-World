@@ -66,7 +66,7 @@ def zm_napisow():
         GUI.btn35.config(text=n_btn[GUI.linb + 34])
         GUI.btnDonat.config(text=n_btn[GUI.linb + 35])
         GUI.btnCopy.config(text=n_btn[GUI.linb + 36])
-    except: messagebox.showinfo("Błąd", "Złe dane lub niepoprawna akcja.")
+    except: messagebox.showinfo("Warning!", "Incorrect input or wrong action.")
 
 
 def zm_jezyka():
