@@ -7,4 +7,4 @@ Python 3.5 or newer
 --------------
 Starting:
 - on Windows and Mac: Run the application using 'start.py'.
-- on Linux: Run the application using 'few_questions' file ... or 'start.py'.
+- on Linux: Run the application using 'start' file ... or 'start.py'.
