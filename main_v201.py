@@ -1,9 +1,6 @@
 import GUI
 from tkinter import messagebox
 
-#t00 = "Kilka pytań o Świat"
-
-
 # NAPISY
 def zm_napisow():
     try:
