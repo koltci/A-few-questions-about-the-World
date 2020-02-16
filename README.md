@@ -9,10 +9,10 @@ Python 3.5 or newer
 ### on Windows and Mac: Run the application using 'start.py'
 In console:
    ```bash
-python start.py
+python3 start.py
 ```
 ### on Linux: Run the application using 'start' file ... or 'start.py'
 In terminal:
  ```bash
-python start.py
+python3 start.py
 ```
